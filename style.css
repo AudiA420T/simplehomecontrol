@@ -1,0 +1,28 @@
+.head{
+	text-align: center;
+	font-size: 50px
+	}
+.title{
+	text-align: center;
+	font-size: 50px;
+	font-family: "Times New Roman"
+	}
+.form{
+	text-align: center;
+        font-size: 150px;
+        }
+#on{
+	width:170px;
+	height:100px;
+	font-size:50px;
+}
+
+#off{
+	width:170px;
+        height:100px;
+	font-size:50px;
+}
+.lol{
+        text-align: center;
+        font-size: 200px;
+        }
